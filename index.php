@@ -1,2 +1,3 @@
 <?php
-echo 'hello world';
+$test = 'hello world';
+echo $test;
